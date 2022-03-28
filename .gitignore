@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+# Don't track content of these folders
+archives/
